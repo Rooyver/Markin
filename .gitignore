@@ -1,0 +1,12 @@
+#IDEA
+*.iml
+.idea/
+
+#Binaries
+target/
+
+#MarkovBot
+resources/avatar.png
+resources/config.ini
+resources/entryset.txt
+resources/history.txt
